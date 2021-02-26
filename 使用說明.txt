@@ -1,0 +1,8 @@
+python main.py
+
+輸入檔名 ex:Baboon.raw
+
+輸入qf ex:50
+
+
+直接產生解壓縮後的圖檔 (因為要比較大小所以存成.png)
