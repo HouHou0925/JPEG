@@ -1,5 +1,5 @@
 # A JPEG compressor in Python 
-##Introduction
+## Introduction
 --
 
 中央大學資料壓縮 Project
