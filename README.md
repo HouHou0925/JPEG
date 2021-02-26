@@ -6,7 +6,7 @@
 [課堂報告](https://github.com/HouHou0925/JPEG/blob/main/108522039_JPEG.pdf)
 
 
-### How to use
+## How to use
 
 ``` bash
 pip install -r requirements.txt
@@ -21,7 +21,6 @@ python main.py
 
 
 
-Result
---
+## Result
 
 ![](https://github.com/HouHou0925/JPEG/blob/main/img/result.jpg)
