@@ -1,6 +1,7 @@
 # A JPEG compressor in Python 
+
 ## Introduction
---
+
 
 中央大學資料壓縮 Project
 [課堂報告](https://github.com/HouHou0925/JPEG/blob/main/108522039_JPEG.pdf)
